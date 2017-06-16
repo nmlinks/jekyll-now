@@ -8,19 +8,23 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 ## Sites de téléchargement généralistes
 
-* [**Avaxhome**](https://avxhm.se "Avaxhome") _ddl_ - Nécessite une inscription à Icerbox.
-* [**Chomikuj**](http://chomikuj.pl "Chomikuj") _ddl_ - En polonais. Si. Vive la Pologne, Monsieur !
-* [**Minhateca**](http://minhateca.com.br "Minhateca") _ddl_ - En portugais. Souvent plus facile de passer par Google que par la recherche interne pour trouver quelque chose de précis.
-* [**Partagora.com**](https://partagora.com "Partagora") _ddl_ - Fermera au 30 juin 2017.
-* [**T411**](https://www.t411.al "T411") _bittorrent_
+* [**Avaxhome**](https://avxhm.se "Avaxhome") - Nécessite une inscription à Icerbox.
+* [**Chomikuj**](http://chomikuj.pl "Chomikuj") - En polonais. Si. Vive la Pologne, Monsieur !
+* [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais. Souvent plus facile de passer par Google que par la recherche interne pour trouver quelque chose de précis.
+* [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
+* [**T411**](https://www.t411.al "T411") - Bittorrent
 
 
 ## Sites de téléchargement d'ebooks
 
-* [**Bookys**](http://bookys.me "Bookys") _ddl_
-* [**Ebook777**](http://www.ebook777.com"Ebook777") _ddl_
-* [**Librairie V**](http://librairie-v.co "Librairie V") _ddl_
-* [**Bookspics**](https://bookspics.com "Bookspics") _ddl_ - Livres et magazines
+* [**Bookys**](http://bookys.me "Bookys")
+* [**Bookspics**](https://bookspics.com "Bookspics") - Livres et magazines
+* [**Chewbax**](http://chewbax.free.fr/bibliotheque/_catalog/e2453ad0/e2453ad0_authors.html "Chewbax")
+* [**Ebook777**](http://www.ebook777.com"Ebook777")
+* [Fourretoutici](http://www.fourtoutici.top/ "Fouretoutici) - Non, ce n'est pas sexuel…
+* [**Heights Books**](http://heights-book.blogspot.fr/p/accueil.html "Heights Books")
+* [**Librairie V**](http://librairie-v.co "Librairie V")
+* [**TV5 Monde**](http://bibliothequenumerique.tv5monde.com/ "TV5") - Bibliothèque numérique de TV5 Monde
 
 # Mac
 
