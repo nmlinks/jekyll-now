@@ -10,6 +10,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Partagora.com**](https://partagora.com "Partagora") _ddl_ - Fermera au 30 juin 2017.
 * [**T411**](https://www.t411.al "T411") _bittorrent_
 * [**Minhateca**](http://minhateca.com.br "Minhateca") _ddl_ - Souvent plus facile de passer par Google que par la recherche interne pour trouver quelque chose de précis.
+* [**Chomikuj**](http://chomikuj.pl "Chomikuj") _ddl_ - En Polonais. Si. Vive la Pologne, Monsieur !
 
 ## Sites de téléchargement d'ebooks
 
