@@ -41,7 +41,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Libre and Co
 
-* [**Framasoft**](https://framasoft.org "framasoft")
+* [**Framasoft**](https://framasoft.org "La route est longue mais la voie est libre…")
 * [**Framalink**](https://frama.link "Raccourcisseur de liens")
 
 # Divers web
