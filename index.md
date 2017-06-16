@@ -20,6 +20,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Bookys**](http://bookys.me "Bookys") _ddl_
 * [**Ebook777**](http://www.ebook777.com"Ebook777") _ddl_
 * [**Librairie V**](http://librairie-v.co "Librairie V") _ddl_
+* [**Bookspics**](https://bookspics.com "Bookspics") _ddl_ - Livres et magazines
 
 # Mac
 
@@ -43,9 +44,15 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Divers web
 
-* [**Sitebox**](https://www.sitebox.io) - The static site generator that works directly from your Dropbox
+* [**Sitebox**](https://www.sitebox.io) - The static site generator that works directly from your Dropbox.
 
 # Périodiques divers gratuits
 
 * [**Satellifax**](http://www.satellifax.com/lettre/gratuit "Satellifax")
 * [**Renseignor**](http://www.cf2r.org/fr/renseignor-bulletin-hebdomadaire-ecoutes.php "Renseignor")
+
+# actualité
+
+* [Avax news](http://avax.news "Avax News") - Images
+
+
