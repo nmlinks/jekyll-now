@@ -4,6 +4,8 @@ layout: page
 
 Quelques liens d'intérêt, plus ou moins classés.
 
+# Téléchargement
+
 ## Sites de téléchargement généralistes
 
 * [**Avaxhome**](https://avxhm.se "Avaxhome") _ddl_ - Nécessite une inscription à Icerbox.
@@ -19,4 +21,22 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Ebook777**](http://www.ebook777.com"Ebook777") _ddl_
 * [**Librairie V**](http://librairie-v.co "Librairie V") _ddl_
 
+# Mac
 
+* [**Compresser chaque fichier séparément dans un dossier**](http://osxdaily.com/2010/10/04/compress-all-files-in-a-directory/)
+
+# PDF
+
+* [**SmallPDF unlocker**](https://smallpdf.com/fr/unlock-pdf "Déverouiller des PDF en ligne")
+
+# Livres papier
+
+* [**Antiqbook**](http://www.antiqbook.com/ "Antiqbook")
+
+# Jekyll
+
+* [**HTML5 audio plugin**](https://github.com/ttscoff/JekyllPlugins/blob/master/HTML5Audio/audio_tag.rb)
+
+# Libre and Co
+
+* [**Framasoft**](https://framasoft.org "framasoft")
