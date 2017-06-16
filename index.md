@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 Toto est content que ça marche.
