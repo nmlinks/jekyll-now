@@ -2,6 +2,8 @@
 layout: page
 ---
 
+Quelques liens d'intérêt, plus ou moins classés.
+
 ## Sites de téléchargement généralistes
 
 * [Avaxhome](https://avxhm.se "Avaxhome") DDL - _Nécessite une inscription à Icerbox_
