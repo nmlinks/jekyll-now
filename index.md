@@ -42,6 +42,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 # Libre and Co
 
 * [**Framasoft**](https://framasoft.org "framasoft")
+* [**Framalink**](https://frama.link "Raccourcisseur de liens")
 
 # Divers web
 
