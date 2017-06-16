@@ -37,6 +37,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 # Jekyll
 
 * [**HTML5 audio plugin**](https://github.com/ttscoff/JekyllPlugins/blob/master/HTML5Audio/audio_tag.rb "Github")
+* [**Webjeda**](https://blog.webjeda.com "Webjeda")
 
 # Libre and Co
 
@@ -51,8 +52,8 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Satellifax**](http://www.satellifax.com/lettre/gratuit "Satellifax")
 * [**Renseignor**](http://www.cf2r.org/fr/renseignor-bulletin-hebdomadaire-ecoutes.php "Renseignor")
 
-# actualité
+# Actualité
 
-* [Avax news](http://avax.news "Avax News") - Images
+* [**Avax news**](http://avax.news "Avax News") - Images
 
 
