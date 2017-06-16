@@ -47,5 +47,5 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Périodiques divers gratuits
 
-* [**Satellifax**](http://www.satellifax.com/lettre/gratuit "http://www.satellifax.com/lettre/gratuit" "Satellifax")
+* [**Satellifax**](http://www.satellifax.com/lettre/gratuit "Satellifax")
 * [**Renseignor**](http://www.cf2r.org/fr/renseignor-bulletin-hebdomadaire-ecoutes.php "Renseignor")
