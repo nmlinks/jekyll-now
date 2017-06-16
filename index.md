@@ -2,10 +2,7 @@
 layout: page
 ---
 
-Toto est content que ça marche.
+#Sites de téléchargement d'ebooks
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact mo
+[Bookys.me](http://bookys.me "Bookys")
+[Partagora.com](https://partagora.com) *Fermera au 30 juin 2017.*
