@@ -10,7 +10,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 * [**Avaxhome**](https://avxhm.se "Avaxhome") - Nécessite une inscription à Icerbox.
 * [**Chomikuj**](http://chomikuj.pl "Chomikuj") - En polonais. Si. Vive la Pologne, Monsieur !
-* [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais. Souvent plus facile de passer par Google que par la recherche interne pour trouver quelque chose de précis.
+* [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais, beaucoup des utilisateurs de Toutbox/Partageurs y ont migré. Il est parfois plus facile de passer par Google que par la recherche interne pour trouver quelque chose de précis.
 * [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
 * [**T411**](https://www.t411.al "T411") - Bittorrent
 
