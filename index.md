@@ -1,6 +1,5 @@
 ---
 layout: page
-title: NMlinks
 ---
 
 * [Bookys](http://bookys.me "Bookys")
