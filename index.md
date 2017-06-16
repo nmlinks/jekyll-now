@@ -23,7 +23,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Mac
 
-* [**Compresser chaque fichier séparément dans un dossier**](http://osxdaily.com/2010/10/04/compress-all-files-in-a-directory/)
+* [**Compresser chaque fichier séparément dans un dossier**](http://osxdaily.com/2010/10/04/compress-all-files-in-a-directory/ "OSXdaily")
 
 # PDF
 
@@ -35,8 +35,17 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Jekyll
 
-* [**HTML5 audio plugin**](https://github.com/ttscoff/JekyllPlugins/blob/master/HTML5Audio/audio_tag.rb)
+* [**HTML5 audio plugin**](https://github.com/ttscoff/JekyllPlugins/blob/master/HTML5Audio/audio_tag.rb "Github")
 
 # Libre and Co
 
 * [**Framasoft**](https://framasoft.org "framasoft")
+
+# Divers web
+
+* [**Sitebox**](https://www.sitebox.io) - The static site generator that works directly from your Dropbox
+
+# Périodiques divers gratuits
+
+* [**Satellifax**](http://www.satellifax.com/lettre/gratuit "http://www.satellifax.com/lettre/gratuit" "Satellifax")
+* [**Renseignor**](http://www.cf2r.org/fr/renseignor-bulletin-hebdomadaire-ecoutes.php "Renseignor")
