@@ -5,14 +5,19 @@ layout: page
 Quelques liens d'intérêt, plus ou moins classés.
 
 # Téléchargement
+
+* [**Annuaire de sites de téléchargement**](http://www.mega-p2p.net "mega-p2p.net)
+
 ## Sites de téléchargement généralistes
 * [**Avaxhome**](https://avxhm.se "Avaxhome") - Nécessite une inscription à Icerbox.
 * [**Chomikuj**](http://chomikuj.pl "Chomikuj") - En polonais. Si. Vive la Pologne, Monsieur !
 * [**Demonoid**](https://www.demonoid.pw "Demonoid") - Bittorrent
+* [**LibertyLand**](http://libertyland.co "Libertyland")
 * [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais, beaucoup des utilisateurs de Toutbox/Partageurs y ont migré.
 * [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
 * [**Torrent9**](http://www.torrent9.top/ "Torrent9") - Bittorrent
 * [**T411**](https://www.t411.al "T411") - Bittorrent
+* [**Wawacity**](https://wawacity.ec "Wawacity")
 
 
 ## Sites de téléchargement d'ebooks et assimilés
@@ -25,6 +30,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Ebook777**](http://www.ebook777.com"Ebook777")
 * [**Feedbooks**](http://fr.feedbooks.com/publicdomain Feedbooks) - Domaine public
 * [**Fourretoutici**](http://www.fourtoutici.top/ "Fouretoutici") - Journaux, livres magazines.
+* [**Freelandforum**](http://www.freelandforum.net/vb/forum.php "Freelandforum")
 * [**Heights Books**](http://heights-book.blogspot.fr/p/accueil.html "Heights Books")
 * [**Histoire Ebook**](http://histoireebook.com "histoire ebook") - Orienté.
 * [**Issuu**](https://issuu.com/ "Issuu")
