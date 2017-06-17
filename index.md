@@ -29,6 +29,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Librairie V**](http://librairie-v.co "Librairie V")
 * [**Scribd**](https://fr.scribd.com/ "Scribd") Il faut s'inscrire et partager à son tour des documents pour télécharger autant qu'on veut dans la section des gratuits.
 * [**TV5 Monde**](http://bibliothequenumerique.tv5monde.com/ "TV5") - Bibliothèque numérique de TV5 Monde
+* [**Vosbooks**](http://www.vosbooks.tv/ "Vobooks")
 
 # Mac
 
