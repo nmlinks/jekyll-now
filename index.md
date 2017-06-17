@@ -10,8 +10,10 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 * [**Avaxhome**](https://avxhm.se "Avaxhome") - Nécessite une inscription à Icerbox.
 * [**Chomikuj**](http://chomikuj.pl "Chomikuj") - En polonais. Si. Vive la Pologne, Monsieur !
+* [**Demonoid**](https://www.demonoid.pw "Demonoid") - Bittorrent
 * [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais, beaucoup des utilisateurs de Toutbox/Partageurs y ont migré. Il est parfois plus facile de passer par Google que par la recherche interne pour trouver quelque chose de précis.
 * [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
+* [**Torrent9**](http://www.torrent9.top/ "Torrent9") - Bittorrent
 * [**T411**](https://www.t411.al "T411") - Bittorrent
 
 
@@ -54,6 +56,8 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Divers web
 
+* [**F2B to Epub converter**](http://fb2epub.com/en/ "F2B2ePub) - Le F2B est un format d'ebook surtout apprécié en Russie.
+* [**Online convert**](http://www.online-convert.com/fr/ 'Online convert") - Convertir des fichiers
 * [**Protonmail**](https://protonmail.com/fr/ "Protonmail")
 * [**Sitebox**](https://www.sitebox.io "Sitebox") - The static site generator that works directly from your Dropbox.
 
