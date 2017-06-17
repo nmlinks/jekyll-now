@@ -21,10 +21,12 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Chewbax**](http://chewbax.free.fr/bibliotheque/_catalog/e2453ad0/e2453ad0_authors.html "Chewbax")
 * [**Ebooksarchives**](http://ebooksarchives.blogspot.fr/ "Ebooksarchives")
 * [**Ebook777**](http://www.ebook777.com"Ebook777")
+* [**Feedbooks**](http://fr.feedbooks.com/publicdomain Feedbooks) - Domaine public
 * [**Fourretoutici**](http://www.fourtoutici.top/ "Fouretoutici") - Journaux, livres magazines.
 * [**Heights Books**](http://heights-book.blogspot.fr/p/accueil.html "Heights Books")
 * [**Issuu pdf downloader**](http://vebuka.com/ "Issuu pdf downloader")
 * [**Librairie V**](http://librairie-v.co "Librairie V")
+* [**My free books blog**](http://myfreebooksblog.blogspot.nl/ "My free books blog")
 * [**Scribd**](https://fr.scribd.com/ "Scribd") Il faut s'inscrire et partager à son tour des documents pour télécharger autant qu'on veut dans la section des gratuits.
 * [**TV5 Monde**](http://bibliothequenumerique.tv5monde.com/ "TV5") - Bibliothèque numérique de TV5 Monde
 * [**Vosbooks**](http://www.vosbooks.tv/ "Vobooks")
