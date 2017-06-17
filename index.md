@@ -36,7 +36,10 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Livres papier
 
+* [**Abebooks**](https://www.abebooks.fr/ "Abebooks")
 * [**Antiqbook**](http://www.antiqbook.com/ "Antiqbook")
+* [**Livre rare book**](https://www.livre-rare-book.com/V4 "Livre rare book")
+* [**Priceminister**](http://www.priceminister.com/nav/Livres#xtatc=PUB-[fonc]-[Header]-[Livres]-[ToutUnivers]-[]-[]-[] "Priceminister")
 
 # Jekyll
 
@@ -50,8 +53,8 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Divers web
 
-* [**Sitebox**](https://www.sitebox.io) - The static site generator that works directly from your Dropbox.
-* [**Protonmail**](https://protonmail.com "Protonmail")
+* [**Protonmail**](https://protonmail.com/fr/ "Protonmail")
+* [**Sitebox**](https://www.sitebox.io "Sitebox") - The static site generator that works directly from your Dropbox.
 
 # Périodiques divers gratuits
 
