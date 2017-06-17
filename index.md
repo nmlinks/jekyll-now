@@ -17,6 +17,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 ## Sites de téléchargement d'ebooks et assimilés
 * [**Aozora**](http://www.aozora.gr.jp "Aozora") - 日本語
+* [**Bibebook**](http://www.bibebook.com "Bibebook")
 * [**Bookys**](http://bookys.me "Bookys")
 * [**Bookspics**](https://bookspics.com "Bookspics") - Livres et magazines
 * [**Chewbax**](http://chewbax.free.fr/bibliotheque/_catalog/e2453ad0/e2453ad0_authors.html "Chewbax")
