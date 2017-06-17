@@ -23,7 +23,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Bookspics**](https://bookspics.com "Bookspics") - Livres et magazines
 * [**Chewbax**](http://chewbax.free.fr/bibliotheque/_catalog/e2453ad0/e2453ad0_authors.html "Chewbax")
 * [**Ebook777**](http://www.ebook777.com"Ebook777")
-* [Fourretoutici](http://www.fourtoutici.top/ "Fouretoutici) - Non, ce n'est pas sexuel…
+* [**Fourretoutici**](http://www.fourtoutici.top/ "Fouretoutici) - Non, ce n'est pas sexuel…
 * [**Heights Books**](http://heights-book.blogspot.fr/p/accueil.html "Heights Books")
 * [**Librairie V**](http://librairie-v.co "Librairie V")
 * [**TV5 Monde**](http://bibliothequenumerique.tv5monde.com/ "TV5") - Bibliothèque numérique de TV5 Monde
@@ -56,7 +56,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Divers web
 
-* [**F2B to Epub converter**](http://fb2epub.com/en/ "F2B2ePub) - Le F2B est un format d'ebook surtout apprécié en Russie.
+* [**F2B to Epub converter**](http://fb2epub.com/en/ "F2B2ePub") - Le F2B est un format d'ebook surtout apprécié en Russie.
 * [**Online convert**](http://www.online-convert.com/fr/ 'Online convert") - Convertir des fichiers
 * [**Protonmail**](https://protonmail.com/fr/ "Protonmail")
 * [**Sitebox**](https://www.sitebox.io "Sitebox") - The static site generator that works directly from your Dropbox.
