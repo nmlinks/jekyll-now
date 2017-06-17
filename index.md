@@ -25,6 +25,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Ebook777**](http://www.ebook777.com"Ebook777")
 * [**Fourretoutici**](http://www.fourtoutici.top/ "Fouretoutici") - Journaux, livres magazines.
 * [**Heights Books**](http://heights-book.blogspot.fr/p/accueil.html "Heights Books")
+* [**Issuu pdf downloader**](http://vebuka.com/ "Issuu pdf downloader")
 * [**Librairie V**](http://librairie-v.co "Librairie V")
 * [**TV5 Monde**](http://bibliothequenumerique.tv5monde.com/ "TV5") - Bibliothèque numérique de TV5 Monde
 
