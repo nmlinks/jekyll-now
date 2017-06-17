@@ -60,7 +60,6 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Tails**](https://tails.boum.org/index.fr.html "Tails")
 
 # Divers web
-
 * [**F2B to Epub converter**](http://fb2epub.com/en/ "F2B2ePub") - Le F2B est un format d'ebook surtout apprécié en Russie.
 * [**Online convert**](http://www.online-convert.com/fr/ "Online convert") - Convertir des fichiers
 * [**Protonmail**](https://protonmail.com/fr/ "Protonmail")
@@ -74,5 +73,4 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Avax news**](http://avax.news "Avax News") - Images
 
 # Divers
-
-[**Public domain review**](http://publicdomainreview.org/about/ "Domain public review")
+* [**Public domain review**](http://publicdomainreview.org/about/ "Domain public review")
