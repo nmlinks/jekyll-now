@@ -53,6 +53,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 * [**Framasoft**](https://framasoft.org "La route est longue mais la voie est libre…")
 * [**Framalink**](https://frama.link "Raccourcisseur de liens")
+* [**Tails**](https://tails.boum.org/index.fr.html "Tails")
 
 # Divers web
 
