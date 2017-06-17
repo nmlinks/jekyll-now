@@ -22,6 +22,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Bookys**](http://bookys.me "Bookys")
 * [**Bookspics**](https://bookspics.com "Bookspics") - Livres et magazines
 * [**Chewbax**](http://chewbax.free.fr/bibliotheque/_catalog/e2453ad0/e2453ad0_authors.html "Chewbax")
+* [**Ebooksarchives**](http://ebooksarchives.blogspot.fr/ "Ebooksarchives")
 * [**Ebook777**](http://www.ebook777.com"Ebook777")
 * [**Fourretoutici**](http://www.fourtoutici.top/ "Fouretoutici") - Journaux, livres magazines.
 * [**Heights Books**](http://heights-book.blogspot.fr/p/accueil.html "Heights Books")
@@ -66,12 +67,12 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Sitebox**](https://www.sitebox.io "Sitebox") - The static site generator that works directly from your Dropbox.
 
 # Périodiques divers gratuits
-
 * [**Renseignor**](http://www.cf2r.org/fr/renseignor-bulletin-hebdomadaire-ecoutes.php "Renseignor")
 * [**Satellifax**](http://www.satellifax.com/lettre/gratuit "Satellifax")
 
 # Actualité
-
 * [**Avax news**](http://avax.news "Avax News") - Images
 
+# Divers
 
+[**Public domain review**](http://publicdomainreview.org/about/ "Domain public review")
