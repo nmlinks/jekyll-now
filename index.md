@@ -6,7 +6,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Téléchargement
 
-* [**Annuaire de sites de téléchargement**](http://www.mega-p2p.net "mega-p2p.net)
+* [**Mega-P2P**](http://www.mega-p2p.net "mega-p2p.net") - Annuaire de sites de téléchargements
 
 ## Sites de téléchargement généralistes
 * [**Avaxhome**](https://avxhm.se "Avaxhome") - Nécessite une inscription à Icerbox.
