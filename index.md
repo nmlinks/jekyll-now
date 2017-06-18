@@ -12,6 +12,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Avaxhome**](https://avxhm.se "Avaxhome") - Nécessite une inscription à Icerbox.
 * [**Chomikuj**](http://chomikuj.pl "Chomikuj") - En polonais. Si. Vive la Pologne, Monsieur !
 * [**Demonoid**](https://www.demonoid.pw "Demonoid") - Bittorrent
+* [**Demonoid : section livres en français**](https://www.demonoid.pw/files/?uid=0&category=11&subcategory=0&language=3&seeded=2&quality=0&query=french&sort=)
 * [**LibertyLand**](http://libertyland.co "Libertyland")
 * [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais, beaucoup des utilisateurs de Toutbox/Partageurs y ont migré.
 * [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
