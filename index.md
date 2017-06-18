@@ -44,6 +44,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Issuu pdf downloader**](http://vebuka.com/ "Issuu pdf downloader")
 * [**Librairie V**](http://librairie-v.co "Librairie V")
 * [**Livres sans censures**](http://www.livressanscensures.com/)
+* [**Mobilism**](http://forum.mobilism.org/viewforum.php?f=19) - Il faut s'inscrire pour faire des recherches. 
 * [**My free books blog**](http://myfreebooksblog.blogspot.nl/ "My free books blog")
 * [**Noslivres**](http://www.noslivres.net "Nos Livres")
 * [**Scribd**](https://fr.scribd.com/ "Scribd") Il faut s'inscrire et partager à son tour des documents pour télécharger autant qu'on veut dans la section des gratuits.
