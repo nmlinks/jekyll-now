@@ -33,14 +33,17 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Ebook777**](http://www.ebook777.com"Ebook777")
 * [**Ebooks-gratuit**](http://www.ebooks-gratuit.com/)
 * [**Ebook-planète**](http://ebook-planete.org/)
+* [**ebookgratuit-pdf**](http://ebookgratuit-pdf.blogspot.nl/)
 * [**Feedbooks**](http://fr.feedbooks.com/publicdomain "Feedbooks") - Domaine public.
 * [**Fourretoutici**](http://www.fourtoutici.top/ "Fouretoutici") - Journaux, livres, magazines.
 * [**Freelandforum**](http://www.freelandforum.net/vb/forum.php "Freelandforum")
+* [**Les gourmandes lectures**](http://gourmandeslectures.free.fr/)
 * [**Heights Books**](http://heights-book.blogspot.fr/p/accueil.html "Heights Books")
 * [**Histoire Ebook**](http://histoireebook.com "histoire ebook") - Orienté.
 * [**Issuu**](https://issuu.com/ "Issuu")
 * [**Issuu pdf downloader**](http://vebuka.com/ "Issuu pdf downloader")
 * [**Librairie V**](http://librairie-v.co "Librairie V")
+* [**Livres sans censures**](http://www.livressanscensures.com/)
 * [**My free books blog**](http://myfreebooksblog.blogspot.nl/ "My free books blog")
 * [**Noslivres**](http://www.noslivres.net "Nos Livres")
 * [**Scribd**](https://fr.scribd.com/ "Scribd") Il faut s'inscrire et partager à son tour des documents pour télécharger autant qu'on veut dans la section des gratuits.
