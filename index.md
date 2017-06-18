@@ -32,6 +32,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Ebooksarchives**](http://ebooksarchives.blogspot.fr/ "Ebooksarchives")
 * [**Ebook777**](http://www.ebook777.com"Ebook777")
 * [**Ebooks-gratuit**](http://www.ebooks-gratuit.com/)
+* [**Ebook-planète**](http://ebook-planete.org/)
 * [**Feedbooks**](http://fr.feedbooks.com/publicdomain "Feedbooks") - Domaine public.
 * [**Fourretoutici**](http://www.fourtoutici.top/ "Fouretoutici") - Journaux, livres, magazines.
 * [**Freelandforum**](http://www.freelandforum.net/vb/forum.php "Freelandforum")
