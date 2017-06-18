@@ -62,6 +62,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Abebooks**](https://www.abebooks.fr/ "Abebooks")
 * [**Antiqbook**](http://www.antiqbook.com/ "Antiqbook")
 * [**Antiquariat**](https://www.antiquariat.de/index.jsp;jsessionid=E3E690DF9F4E6A889222E63007C3EFC3?i=loc_fr "Antiquariat en français")
+* [**Bookfinder**](https://www.bookfinder.com)
 * [**Livre rare book**](https://www.livre-rare-book.com/V4 "Livre rare book")
 * [**Priceminister**](http://www.priceminister.com/nav/Livres#xtatc=PUB-[fonc]-[Header]-[Livres]-[ToutUnivers]-[]-[]-[] "Priceminister")
 
