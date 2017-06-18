@@ -13,6 +13,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Chomikuj**](http://chomikuj.pl "Chomikuj") - En polonais. Si. Vive la Pologne, Monsieur !
 * [**Demonoid**](https://www.demonoid.pw "Demonoid") - Bittorrent. La section [livres en français c'est par là](https://www.demonoid.pw/files/?uid=0&category=11&subcategory=0&language=3&seeded=2&quality=0&query=french&sort=).
 * [**LibertyLand**](http://libertyland.co "Libertyland")
+* [**Library Genesis**](http://gen.lib.rus.ec/)
 * [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais, beaucoup des utilisateurs de Toutbox/Partageurs y ont migré.
 * [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
 * [**Torrent9**](http://www.torrent9.top/ "Torrent9") - Bittorrent
@@ -25,6 +26,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Bibebook**](http://www.bibebook.com "Bibebook")
 * [**Bookys**](http://bookys.me "Bookys")
 * [**Bookspics**](https://bookspics.com "Bookspics") - Livres et magazines.
+* [**Bruno et Karine**](http://brunoetkarine.free.fr/opds/_catalog/index.html)
 * [**Chewbax**](http://chewbax.free.fr/bibliotheque/_catalog/e2453ad0/e2453ad0_authors.html "Chewbax")
 * [**Ebooksarchives**](http://ebooksarchives.blogspot.fr/ "Ebooksarchives")
 * [**Ebook777**](http://www.ebook777.com"Ebook777")
