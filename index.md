@@ -88,6 +88,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Actualité
 * [**Avax news**](http://avax.news "Avax News") - Images.
+* [**Bulletin d'infos audio de la NHK** en français](https://www3.nhk.or.jp/nhkworld/fr/)
 * [**Le Temps**](https://www.letemps.ch/)
 
 # Divers
