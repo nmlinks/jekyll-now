@@ -88,6 +88,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 # Actualité
 * [**Avax news**](http://avax.news "Avax News") - Images.
+* [**Le Temps**](https://www.letemps.ch/)
 
 # Divers
 * [**Le dimanche indo-européen**](http://indoeuropeen.blogspot.fr)
