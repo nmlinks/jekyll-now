@@ -76,7 +76,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Tails**](https://tails.boum.org/index.fr.html "Tails")
 
 # Divers web
-* [Cloudwards](https://www.cloudwards.net/comparison/ "Cloudwards") - Comparaison des services de cloud, en storage ou backup.
+* [**Cloudwards**](https://www.cloudwards.net/comparison/ "Cloudwards") - Comparaison des services de cloud, en storage ou backup.
 * [**Fb2 to Epub converter**](http://fb2epub.com/en/ "F2B2ePub") - Le Fb2 est un format d'ebook surtout apprécié en Russie.
 * [**Markdown**](https://daringfireball.net/projects/markdown/syntax#autoescape "Markdown syntax")
 * [**Online convert**](http://www.online-convert.com/fr/ "Online convert") - Convertir des fichiers.
