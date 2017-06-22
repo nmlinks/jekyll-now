@@ -90,6 +90,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 # Actualité
 * [**Avax news**](http://avax.news "Avax News") - Images.
 * [**Bulletin d'infos audio de la NHK** en français](https://www3.nhk.or.jp/nhkworld/fr/)
+* [**Nuntii latini**](http://areena.yle.fi/1-1931339)
 * [**Le Temps**](https://www.letemps.ch/)
 
 # Divers
