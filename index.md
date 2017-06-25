@@ -90,6 +90,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Sitebox**](https://www.sitebox.io "Sitebox") - The static site generator that works directly from your Dropbox.
 
 # Périodiques divers gratuits
+* [**Asia centre**](http://www.centreasia.eu/)
 * [**Renseignor**](http://www.cf2r.org/fr/renseignor-bulletin-hebdomadaire-ecoutes.php "Renseignor")
 * [**Satellifax**](http://www.satellifax.com/lettre/gratuit "Satellifax")
 
