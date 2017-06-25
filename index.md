@@ -13,10 +13,12 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Avaxhome**](https://avxhm.se "Avaxhome") - Nécessite une inscription à Icerbox.
 * [**Chomikuj**](http://chomikuj.pl "Chomikuj") - En polonais. Si. Vive la Pologne, Monsieur !
 * [**Demonoid**](https://www.demonoid.pw "Demonoid") - Bittorrent. La section [livres en français c'est par là](https://www.demonoid.pw/files/?uid=0&category=11&subcategory=0&language=3&seeded=2&quality=0&query=french&sort=).
+* [**Downturk**](http://www.downturk.net/)
 * [**LibertyLand**](http://libertyland.co "Libertyland")
 * [**Library Genesis**](http://gen.lib.rus.ec/)
 * [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais, beaucoup des utilisateurs de Toutbox/Partageurs y ont migré.
 * [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
+* [**Softarchive**](https://sanet.cd)
 * [**Torrent9**](http://www.torrent9.top/ "Torrent9") - Bittorrent
 * [**T411**](https://www.t411.al "T411") - Bittorrent
 * [**Wawacity**](https://wawacity.ec "Wawacity")
@@ -25,8 +27,10 @@ Quelques liens d'intérêt, plus ou moins classés.
 ## Sites de téléchargement d'ebooks et assimilés
 * [**Aozora**](http://www.aozora.gr.jp "Aozora") - 日本語
 * [**Bibebook**](http://www.bibebook.com "Bibebook")
+* [**Bookdl**](http://bookdl.me/category/ebooks/)
 * [**Bookys**](http://bookys.me "Bookys")
 * [**Bookspics**](https://bookspics.com "Bookspics") - Livres et magazines.
+* [**Buchpirat**](http://buchpirat.org) - Auf Deutsch.
 * [**Bruno et Karine**](http://brunoetkarine.free.fr/opds/_catalog/index.html)
 * [**Chewbax**](http://chewbax.free.fr/bibliotheque/_catalog/e2453ad0/e2453ad0_authors.html "Chewbax")
 * [**Ebooksarchives**](http://ebooksarchives.blogspot.fr/ "Ebooksarchives")
@@ -36,6 +40,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**ebookgratuit-pdf**](http://ebookgratuit-pdf.blogspot.nl/)
 * [**Feedbooks**](http://fr.feedbooks.com/publicdomain "Feedbooks") - Domaine public.
 * [**Fourretoutici**](http://www.fourtoutici.top/ "Fouretoutici") - Journaux, livres, magazines.
+* [**FreeBookSpot**](http://www.freebookspot.es)
 * [**Freelandforum**](http://www.freelandforum.net/vb/forum.php "Freelandforum")
 * [**Les gourmandes lectures**](http://gourmandeslectures.free.fr/)
 * [**Heights Books**](http://heights-book.blogspot.fr/p/accueil.html "Heights Books")
@@ -47,6 +52,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Mobilism**](http://forum.mobilism.org/viewforum.php?f=19) - Il faut s'inscrire pour faire des recherches. 
 * [**My free books blog**](http://myfreebooksblog.blogspot.nl/ "My free books blog")
 * [**Noslivres**](http://www.noslivres.net "Nos Livres")
+* [**PDFMags**](http://pdfmags.net/)
 * [**Scribd**](https://fr.scribd.com/ "Scribd") Il faut s'inscrire et partager à son tour des documents pour télécharger autant qu'on veut dans la section des gratuits.
 * [**TV5 Monde**](http://bibliothequenumerique.tv5monde.com/ "TV5") - Bibliothèque numérique de TV5 Monde.
 * [**Ultim-Zone**](https://www.ultim-zone.in "Ultim-Zone")
