@@ -89,6 +89,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Online convert**](http://www.online-convert.com/fr/ "Online convert") - Convertir des fichiers.
 * [**Protonmail**](https://protonmail.com/fr/ "Protonmail")
 * [**Sitebox**](https://www.sitebox.io "Sitebox") - The static site generator that works directly from your Dropbox.
+* [**URLhash**](http://www.urlhash.com)
 
 # Périodiques divers gratuits
 * [**Asia centre**](http://www.centreasia.eu/)
