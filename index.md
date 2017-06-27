@@ -20,7 +20,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
 * [**Softarchive**](https://sanet.cd)
 * [**Torrent9**](http://www.torrent9.top/ "Torrent9") - Bittorrent
-* [**T411**](https://www.t411.al "T411") - Bittorrent
+* [**T411**](https://www.t411.al "T411") - Bittorrent - Fermé au 27 juin 2017.
 * [**Wawacity**](https://wawacity.ec "Wawacity")
 
 
