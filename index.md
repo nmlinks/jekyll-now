@@ -90,6 +90,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Protonmail**](https://protonmail.com/fr/ "Protonmail")
 * [**Sitebox**](https://www.sitebox.io "Sitebox") - The static site generator that works directly from your Dropbox.
 * [**URLhash**](http://www.urlhash.com)
+* [**Tribler**](https://www.tribler.org) - Privacy using our Tor-inspired onion routing. Search and download torrents with less worries or censorship.
 
 # Périodiques divers gratuits
 * [**Asia centre**](http://www.centreasia.eu/)
