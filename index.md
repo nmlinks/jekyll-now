@@ -8,6 +8,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 * [**Mega-P2P**](http://www.mega-p2p.net "mega-p2p.net") - Annuaire de sites de téléchargements
 * [**Lecture numérique**](https://sites.google.com/site/epubfr/ebook-librairie) - Quelques livres mais surtout une interface de recherche dans d'autres sites.
+* [**https://skytorrents.in**](Skytorrents)
 
 ## Sites de téléchargement généralistes
 * [**Avaxhome**](https://avxhm.se "Avaxhome") - Nécessite une inscription à Icerbox.
