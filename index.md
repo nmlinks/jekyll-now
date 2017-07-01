@@ -105,7 +105,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Le Temps**](https://www.letemps.ch/)
 
 # Langues
-* [Arenaren](http://minhateca.com.br/arenaren/Documentos) - Allemand
+* [Arenaren](http://minhateca.com.br/arenaren/Documentos) - Allemand.
 
 # Divers
 * [**Le dimanche indo-européen**](http://indoeuropeen.blogspot.fr)
