@@ -104,6 +104,9 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Nuntii latini**](http://areena.yle.fi/1-1931339)
 * [**Le Temps**](https://www.letemps.ch/)
 
+# Langues
+* [Arenaren](http://minhateca.com.br/arenaren/Documentos) - Allemand
+
 # Divers
 * [**Le dimanche indo-européen**](http://indoeuropeen.blogspot.fr)
 * [**Public domain review**](http://publicdomainreview.org/about/ "Domain public review")
