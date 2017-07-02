@@ -60,6 +60,9 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Ultim-Zone**](https://www.ultim-zone.in "Ultim-Zone")
 * [**Vosbooks**](http://www.vosbooks.tv/ "Vobooks")
 
+# Anime
+* [**Itadakimasu-manga**](https://itadakimasu-manga.com/)
+
 # Mac
 * [**Compresser chaque fichier séparément dans un dossier**](http://osxdaily.com/2010/10/04/compress-all-files-in-a-directory/ "OSXdaily")
 
