@@ -21,6 +21,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**LibertyLand**](http://libertyland.co "Libertyland")
 * [**Library Genesis**](http://gen.lib.rus.ec/)
 * [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais, beaucoup des utilisateurs de Toutbox/Partageurs y ont migré.
+* [**Nexttorrent**](https://www.nextorrent.cc) - Bittorrent
 * [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
 * [**Softarchive**](https://sanet.cd)
 * [**Torrent9**](http://www.torrent9.cc/ "Torrent9") - Bittorrent
