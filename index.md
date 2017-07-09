@@ -10,6 +10,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Lecture numérique**](https://sites.google.com/site/epubfr/ebook-librairie) - Quelques livres mais surtout une interface de recherche dans d'autres sites.
 * [**skytorrentsn**](https://skytorrents.in) - Rechercher des torrents.
 * [**Torrents.me**](https://torrents.me)
+* [**Torrentz2**](https://torrentz2.eu/) - Torrentz.eu was a free, fast and powerful meta-search engine combining results from dozens of search engines, Torrentz2 is trying to replace it.
 * [**Zooqle**](https://zooqle.com)
 
 ## Sites de téléchargement généralistes
