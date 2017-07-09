@@ -23,7 +23,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Minhateca**](http://minhateca.com.br "Minhateca") - En portugais, beaucoup des utilisateurs de Toutbox/Partageurs y ont migré.
 * [**Partagora.com**](https://partagora.com "Partagora") - Fermera le 30 juin 2017.
 * [**Softarchive**](https://sanet.cd)
-* [**Torrent9**](http://www.torrent9.top/ "Torrent9") - Bittorrent
+* [**Torrent9**](http://www.torrent9.cc/ "Torrent9") - Bittorrent
 * [**T411**](https://www.t411.al "T411") - Bittorrent - Fermé au 27 juin 2017.
 * [**Wawacity**](https://wawacity.ec "Wawacity")
 
