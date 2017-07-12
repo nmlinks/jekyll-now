@@ -8,6 +8,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 
 * [**Mega-P2P**](http://www.mega-p2p.net "mega-p2p.net") - Annuaire de sites de téléchargements
 * [**Lecture numérique**](https://sites.google.com/site/epubfr/ebook-librairie) - Quelques livres mais surtout une interface de recherche dans d'autres sites.
+* [**Snowfl**](https://snowfl.com)
 * [**skytorrentsn**](https://skytorrents.in) - Rechercher des torrents.
 * [**Torrents.me**](https://torrents.me)
 * [**Torrentz2**](https://torrentz2.eu/) - Torrentz.eu was a free, fast and powerful meta-search engine combining results from dozens of search engines, Torrentz2 is trying to replace it.
