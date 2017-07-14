@@ -90,6 +90,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Framasoft**](https://framasoft.org "La route est longue mais la voie est libre…")
 * [**Framalink**](https://frama.link "Raccourcisseur de liens") - Raccourcisseur de liens.
 * [**Tails**](https://tails.boum.org/index.fr.html "Tails")
+* [**Ubports**](https://ubports.com) - Téléphones portables sous Ubuntu après l'abandon par Canonical.
 
 # Divers web
 * [**Cloudwards**](https://www.cloudwards.net/comparison/ "Cloudwards") - Comparaison des services de cloud, en storage ou backup.
