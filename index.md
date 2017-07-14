@@ -120,3 +120,4 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Le dimanche indo-européen**](http://indoeuropeen.blogspot.fr)
 * [**Public domain review**](http://publicdomainreview.org/about/ "Domain public review")
 * [**Podcast inofficiel Radio Courtoisie**](http://podcast.river-tiger.com)
+* [**The Conversation**](http://theconversation.com/fr) - en français.
