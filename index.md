@@ -112,6 +112,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Bulletin d'infos audio de la NHK** en français](https://www3.nhk.or.jp/nhkworld/fr/)
 * [**Nuntii latini**](http://areena.yle.fi/1-1931339)
 * [**Le Temps**](https://www.letemps.ch/)
+* [**The Conversation**](http://theconversation.com/fr) - en français.
 
 # Langues
 * [Arenaren](http://minhateca.com.br/arenaren/Documentos) - Allemand.
@@ -120,4 +121,3 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Le dimanche indo-européen**](http://indoeuropeen.blogspot.fr)
 * [**Public domain review**](http://publicdomainreview.org/about/ "Domain public review")
 * [**Podcast inofficiel Radio Courtoisie**](http://podcast.river-tiger.com)
-* [**The Conversation**](http://theconversation.com/fr) - en français.
