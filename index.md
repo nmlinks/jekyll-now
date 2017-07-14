@@ -28,6 +28,7 @@ Quelques liens d'intérêt, plus ou moins classés.
 * [**Torrent9**](http://www.torrent9.cc/ "Torrent9") - Bittorrent
 * [**T411**](https://www.t411.al "T411") - Bittorrent - Fermé au 27 juin 2017.
 * [**Wawacity**](https://wawacity.ec "Wawacity")
+* [YGGtorrent](https://yggtorrent.com)
 
 
 ## Sites de téléchargement d'ebooks et assimilés
